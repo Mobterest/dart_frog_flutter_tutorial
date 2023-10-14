@@ -4,4 +4,4 @@
 
 Built with [Dart](https://dart.dev/) :star2:
 
-[![Watch the Full Tutorial](dart_frog.png)](https://www.youtube.com/watch?v=8Nwcfqxa73k&t=5s)
+[![Watch the Full Tutorial](dart_frog_flutter.png)](https://www.youtube.com/watch?v=8Nwcfqxa73k&t=5s)
